@@ -3,7 +3,7 @@
 Estudante da São Paulo Tech School
 
 
-<img width="1920" height="1080" alt="Design sem nome (1)" src="https://github.com/user-attachments/assets/31b5e709-d701-4adb-9e23-18c969aaf41f" />
+<img width="960" height="540" alt="Design sem nome (1)" src="https://github.com/user-attachments/assets/31b5e709-d701-4adb-9e23-18c969aaf41f" />
 
 
 <!--
