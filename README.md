@@ -3,7 +3,7 @@
 Estudante da São Paulo Tech School
 
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/d2e310ba-e345-4de3-bca3-3ee965169037" />
+<img width="1024" height="512" alt="image" src="https://github.com/user-attachments/assets/d2e310ba-e345-4de3-bca3-3ee965169037" />
 
 <!--
 **Matheus-valle/Matheus-valle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
