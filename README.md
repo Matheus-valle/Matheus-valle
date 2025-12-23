@@ -2,10 +2,6 @@
 
 Estudante da São Paulo Tech School
 
-
-<img width="480" height="280" alt="Design sem nome (1)" src="https://github.com/user-attachments/assets/31b5e709-d701-4adb-9e23-18c969aaf41f" />
-
-
 <!--
 **Matheus-valle/Matheus-valle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
