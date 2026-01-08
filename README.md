@@ -36,4 +36,4 @@
 
 <br clear="both">
 
-<img src="https://avatars.githubusercontent.com/u/69278495?v=4" alt="Snake animation" />
+
